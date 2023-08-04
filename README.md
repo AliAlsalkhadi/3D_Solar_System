@@ -1,5 +1,7 @@
 # Solar System 3D Visualization using Java3D
 
+![Solar System Visualization](![Solar System Visualization](https://github.com/your-username/your-repository/blob/main/images/solar_system.png)
+
 ## Overview
 
 This repository contains a Java3D-based application that visualizes the solar system in 3D. The application provides an interactive and immersive experience, allowing users to explore the celestial bodies within our solar system.
